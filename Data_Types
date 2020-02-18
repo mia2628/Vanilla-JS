@@ -1,0 +1,25 @@
+/* String
+const what = "Scott";
+
+console.log(what);
+*/
+
+/*
+Boolean
+const wat = true;
+
+console.log(wat);
+*/
+
+/*
+Number
+const wat = 666;
+
+console.log(wat);
+*/
+
+/*Float
+const wat = 55.1;
+
+console.log(wat);
+*/
