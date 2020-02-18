@@ -1,0 +1,4 @@
+let a = 221; #my_first Variable!
+let b = a - 5;
+alert('You are Worth it!');
+console.log(b);
