@@ -1,0 +1,9 @@
+/*const a = 221; you can not change
+/*let b = a - 5; you can change
+a = 4;*/
+
+var a = 221;
+var b = a - 5;
+a = 4; /*you can change ma-n*/
+
+console.log(b, a);
