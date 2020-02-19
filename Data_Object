@@ -1,0 +1,19 @@
+const scottInfo = {
+  name : "Seong",
+  age : 25,
+  gender : "Male",
+  basketballplayer : true,
+  favSinger : ["Zico", "MC Mong", "Paul Kim"],
+  favFood: [ 
+    {
+      name : "kimchi jjigae",
+      lotKimchi : true
+    },
+    {
+      name : "pasta",
+      sauces : "tomato"
+    }
+  ]
+}
+
+console.log(scottInfo.favSinger[0])
