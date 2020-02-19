@@ -1,0 +1,35 @@
+const calculator_plus = {
+  plus : function(a, b) {
+    return a + b;
+  }
+}
+
+const plus = calculator_plus.plus(5, 5)
+console.log(plus);
+
+const calculator_minus = {
+  minus : function(a, b) {
+    return a - b;
+  }
+}
+
+const minus = calculator_minus.minus(5, 5)
+console.log(minus);
+
+const calculator_odd = {
+  odd : function(a, b) {
+    return a * b;
+  }
+}
+
+const odd = calculator_odd.odd(5, 5)
+console.log(odd);
+
+const calculator_divide = {
+  divide : function(a, b) {
+    return a / b;
+  }
+}
+
+const divide = calculator_divide.divide(5, 5)
+console.log(divide);
